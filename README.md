@@ -20,3 +20,6 @@ afew.
 
 DISCLAIMER: mwen pa responsab de movez izaj pwogram lan, mwen kreyel a bi poul ede, si ou
 itlizel pouw fe lot bagay se pa mwen
+
+
+# PREV
