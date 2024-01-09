@@ -1,4 +1,4 @@
-# checkOIM
+# checkOIM[free]
 verifye sit OIM lan pou ou jiskaske sit la monte
 
 
