@@ -5,7 +5,7 @@ verifye sit OIM lan otomatik pouw ka pran randevou pou viza imanite a san ke sot
 
 
 ## prereki
-- enstale python3 nan machine ou
+- enstale python3 nan machine ou </br>
 siw pa gen python al telechajel sou lyen sa a https://www.python.org/downloads/
 
 ## lansman
