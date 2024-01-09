@@ -1,5 +1,7 @@
-# checkOIM[free]
-verifye sit OIM lan pou ou jiskaske sit la monte
+# checkOIM
+`author: Djefferson Saintilus`
+
+verifye sit OIM lan otomatik pouw ka pran randevou pou viza imanite a san ke sote.
 
 
 ## prereki
