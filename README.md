@@ -24,8 +24,8 @@ itlizel pouw fe lot bagay se pa mwen
 
 # PREV
 - lansman pwogram lan
-![image](./Screenshot from 2024-01-09 05-17-11.png)
+![image](/Screenshot from 2024-01-09 05-17-11.png)
 
 
 - navigate firefox
-![image](./Screenshot from 2024-01-09 05-17-45.png)
+![image](/Screenshot from 2024-01-09 05-17-45.png)
